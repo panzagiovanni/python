@@ -1,0 +1,2 @@
+-> crazy.py renames all files on your computer (starting from a specific folder - ./tmp folder in this example) with random names
+-> heal.py reverts the file names to the old name
